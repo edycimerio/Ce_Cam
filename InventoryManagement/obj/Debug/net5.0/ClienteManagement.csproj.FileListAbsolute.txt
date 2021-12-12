@@ -296,3 +296,7 @@ C:\Projetos\Ce_Cam\InventoryManagement\obj\Debug\net5.0\ClienteManagement.dll
 C:\Projetos\Ce_Cam\InventoryManagement\obj\Debug\net5.0\ref\ClienteManagement.dll
 C:\Projetos\Ce_Cam\InventoryManagement\obj\Debug\net5.0\ClienteManagement.pdb
 C:\Projetos\Ce_Cam\InventoryManagement\obj\Debug\net5.0\ClienteManagement.genruntimeconfig.cache
+C:\Projetos\Ce_Cam\InventoryManagement\bin\Debug\net5.0\FluentValidation.dll
+C:\Projetos\Ce_Cam\InventoryManagement\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Projetos\Ce_Cam\InventoryManagement\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Projetos\Ce_Cam\InventoryManagement\obj\Debug\net5.0\ClienteManagement.MvcApplicationPartsAssemblyInfo.cs

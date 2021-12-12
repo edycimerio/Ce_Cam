@@ -8,6 +8,7 @@ using Cliente.Domain.Services;
 using Cliente.Repository;
 using Cliente.Repository.Interfaces;
 using Cliente.Repository.Repository;
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -34,6 +35,10 @@ namespace Cecam
 
             services.AddTransient<IClientesService, ClientesService>();
             services.AddTransient<IClienteRepository, ClienteRepository>();
+
+            services.AddMvc()
+                .AddFluentValidation(fvc =>
+                            fvc.RegisterValidatorsFromAssemblyContaining<Startup>());
 
             services.AddControllersWithViews();
         }

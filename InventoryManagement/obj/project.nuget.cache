@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oZgx85uvg5tgdRF2VMYK4c7H8BshIx2wNwRQ8fsyRJhWpKM7NNsVk0dwVH8b8tyGBL9jukFYHatb8iD5QgFFEg==",
+  "dgSpecHash": "hjSg/I+LiqG6mQPjNa1ToEW7DK+ElgxVCBF+DyUHV9CeeOB2GItzpYlQ7JwAwb8dKAHTS2SzB+5kc+a7uxQLDQ==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Ce_Cam\\InventoryManagement\\ClienteManagement.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\edyni\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
+    "C:\\Users\\edyni\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.5\\fluentvalidation.aspnetcore.10.3.5.nupkg.sha512",
+    "C:\\Users\\edyni\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.5\\fluentvalidation.dependencyinjectionextensions.10.3.5.nupkg.sha512",
     "C:\\Users\\edyni\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\edyni\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\edyni\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
