@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ClienteManagement
+build_property.ProjectDir = C:\Projetos\inventory-management-asp-dotnet-core-master\InventoryManagement\

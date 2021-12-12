@@ -1,0 +1,12 @@
+C:\Projetos\inventory-management-asp-dotnet-core-master\Cliente.Repository\bin\Debug\netcoreapp3.1\Cliente.Repository.deps.json
+C:\Projetos\inventory-management-asp-dotnet-core-master\Cliente.Repository\bin\Debug\netcoreapp3.1\Cliente.Repository.runtimeconfig.json
+C:\Projetos\inventory-management-asp-dotnet-core-master\Cliente.Repository\bin\Debug\netcoreapp3.1\Cliente.Repository.runtimeconfig.dev.json
+C:\Projetos\inventory-management-asp-dotnet-core-master\Cliente.Repository\bin\Debug\netcoreapp3.1\Cliente.Repository.dll
+C:\Projetos\inventory-management-asp-dotnet-core-master\Cliente.Repository\bin\Debug\netcoreapp3.1\Cliente.Repository.pdb
+C:\Projetos\inventory-management-asp-dotnet-core-master\Cliente.Repository\obj\Debug\netcoreapp3.1\Cliente.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\inventory-management-asp-dotnet-core-master\Cliente.Repository\obj\Debug\netcoreapp3.1\Cliente.Repository.AssemblyInfoInputs.cache
+C:\Projetos\inventory-management-asp-dotnet-core-master\Cliente.Repository\obj\Debug\netcoreapp3.1\Cliente.Repository.AssemblyInfo.cs
+C:\Projetos\inventory-management-asp-dotnet-core-master\Cliente.Repository\obj\Debug\netcoreapp3.1\Cliente.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\inventory-management-asp-dotnet-core-master\Cliente.Repository\obj\Debug\netcoreapp3.1\Cliente.Repository.dll
+C:\Projetos\inventory-management-asp-dotnet-core-master\Cliente.Repository\obj\Debug\netcoreapp3.1\Cliente.Repository.pdb
+C:\Projetos\inventory-management-asp-dotnet-core-master\Cliente.Repository\obj\Debug\netcoreapp3.1\Cliente.Repository.genruntimeconfig.cache
