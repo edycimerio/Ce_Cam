@@ -1,0 +1,1 @@
+executar o script de criação do banco e sua respectiva tabela, gerenciamento_cliente.sql
